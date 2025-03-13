@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Patha
 - 👀 I’m interested in ... technology, photography, playing guitar and occasional cooking
-- 🌱 I’m currently learning ... a bit of everything that interests me like self-improvement , history, equity, etc.
-- 💞️ I’m looking to collaborate on ... building reactive distributed systems
+- 🌱 I’m currently learning ... a bit of everything that interests me like technology, self-improvement , history, equity, etc.
+- 💞️ I’m looking to collaborate on ... building distributed systems, machine-learning in quantitative finance, natural language processing, sentiment analysis, etc.
 - 📫 How to reach me ...
 
 <a href="https://www.linkedin.com/in/partha-sarathi-biswas-356ba115/">
