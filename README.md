@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Patha
+- 👋 Hi, I’m Partha
 - 👀 I’m interested in ... technology, photography, playing guitar and occasional cooking
 - 🌱 I’m currently learning ... a bit of everything that interests me like technology, self-improvement , history, equity, etc.
 - 💞️ I’m looking to collaborate on ... building distributed systems, machine-learning in quantitative finance, natural language processing, sentiment analysis, etc.
